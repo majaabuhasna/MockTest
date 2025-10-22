@@ -30,4 +30,4 @@ Krakow has 22 daytime tram lines, including 2 fast tram lines, and 3 night tram 
 ![Tramwaj1](https://media.krakow.travel/photos/21962/noresize.jpg)
 ![Tramwaj2](https://www.railtech.com/wp-content/uploads/2020/06/Stadler-Tango-tram-in-Krakow.jpg)
 
-![Tramwaj3](Tramwaj3.jpg)
+![Tramwaj3](/IMG/Tramwaj3.jpg)
