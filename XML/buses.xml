@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<heading>Buses lines in Kraków</heading>
-
-<onehundred>
+<buses>
+ <onehundred>
     <firststop>Kopiec Kościuszki</firststop>
     <laststop>Plac Na Stawach</laststop>
     <service>Mobilis Sp. z o.o.</service>
     <frequency>codziennie</frequency>
-</onehundred>
+ </onehundred>
 
-<twohundred>
+ <twohundred>
     <firststop>Bronowice Małe</firststop>
     <laststop>Przeginia Kościół</laststop>
     <service>Mobilis Sp. z o.o.</service>
     <frequency>dni powrzednie</frequency>
-</twohundred>
+ </twohundred>
 
-<threehundred>
+ <threehundred>
     <firststop>Kraków Airport</firststop>
     <laststop>Osiedle Podwawelskie</laststop>
     <service>Mobilis Sp. z o.o.</service>
     <frequency>codziennie</frequency>
-</threehundred>
+ </threehundred>
 
-<fourhundredandfive>
+ <fourhundredandfive>
     <firststop>Dworzec Główny Zachód</firststop>
     <laststop>Prądnik Czerwony P+R</laststop>
     <service>Mobilis Sp. z o.o.</service>
     <frequency>codziennie</frequency>
-</fourhundredandfive>
+ </fourhundredandfive>
 
-<fivehundredandone>
+ <fivehundredandone>
     <firststop>Chełmońskiego Pętla</firststop>
     <laststop>Zalew Nowohucki</laststop>
     <service>MPK S.A. w Krakowie</service>
     <frequency>codziennie</frequency>
-</fivehundredandone>
+ </fivehundredandone>
 
-<sixhundredandone>
+ <sixhundredandone>
     <firststop>Mydlniki Wapiennik P+R</firststop>
     <laststop>Zajezdnia Nowa Huta</laststop>
     <service>MPK S.A. w Krakowie</service>
     <frequency>codziennie</frequency>
-</sixhundredandone>
+ </sixhundredandone>
+</buses>
