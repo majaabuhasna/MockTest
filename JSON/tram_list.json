@@ -1,0 +1,44 @@
+[
+    {
+        "line_number": 1,
+        "route": "Wzgórza Krzesławickie - Salwator",
+        "number_of_stops": 29,
+        "travel_time_min": 55,
+        "operator": "MPK Kraków"
+    },
+    {
+        "line_number": 4,
+        "route": "Bronowice Małe - Wzgórza Krzesławickie",
+        "number_of_stops": 31,
+        "travel_time_min": 58,
+        "operator": "MPK Kraków"
+    },
+    {
+        "line_number": 8,
+        "route": "Borek Fałęcki - Bronowice Małe",
+        "number_of_stops": 27,
+        "travel_time_min": 50,
+        "operator": "MPK Kraków"
+    },
+    {
+        "line_number": 14,
+        "route": "Mistrzejowice - Bronowice",
+        "number_of_stops": 26,
+        "travel_time_min": 47,
+        "operator": "MPK Kraków"
+    },
+    {
+        "line_number": 18,
+        "route": "Czerwone Maki P+R - Krowodrza Górka",
+        "number_of_stops": 25,
+        "travel_time_min": 44,
+        "operator": "MPK Kraków"
+    },
+    {
+        "line_number": 52,
+        "route": "Czerwone Maki P+R - Os. Piastów",
+        "number_of_stops": 28,
+        "travel_time_min": 47,
+        "operator": "MPK Kraków"
+    }
+]
