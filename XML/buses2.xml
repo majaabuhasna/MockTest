@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heading>Buses lines in Kraków</heading>
+<buses>
+<onehundred>
+    <firststop jezyk="polski" miasto="Kraków">Kopiec Kościuszki</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Plac Na Stawach</laststop>
+    <service miasto="Kraków" rodzaj="spółka">Mobilis Sp. z o.o.</service>
+    <frequency format="wyraz" częstotliwość="często">codziennie</frequency>
+</onehundred>
+
+<twohundred>
+    <firststop jezyk="polski" miasto="Kraków">Bronowice Małe</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Przeginia Kościół</laststop>
+    <service miasto="Kraków" rodzaj="spółka">Mobilis Sp. z o.o.</service>
+    <frequency format="wyraz" częstotliwość="w miarę często">dni powrzednie</frequency>
+</twohundred>
+
+<threehundred>
+    <firststop jezyk="polski" miasto="Kraków">Kraków Airport</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Osiedle Podwawelskie</laststop>
+    <service miasto="Kraków" rodzaj="spółka">Mobilis Sp. z o.o.</service>
+    <frequency format="wyraz" częstotliwość="często">codziennie</frequency>
+</threehundred>
+
+<fourhundredandfive>
+    <firststop jezyk="polski" miasto="Kraków">Dworzec Główny Zachód</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Prądnik Czerwony P+R</laststop>
+    <service miasto="Kraków" rodzaj="spółka">Mobilis Sp. z o.o.</service>
+    <frequency format="wyraz" częstotliwość="często">codziennie</frequency>
+</fourhundredandfive>
+
+<fivehundredandone>
+    <firststop jezyk="polski" miasto="Kraków">Chełmońskiego Pętla</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Zalew Nowohucki</laststop>
+    <service miasto="Kraków" rodzaj="spółka">MPK S.A. w Krakowie</service>
+    <frequency format="wyraz" częstotliwość="często">codziennie</frequency>
+</fivehundredandone>
+
+<sixhundredandone>
+    <firststop jezyk="polski" miasto="Kraków">Mydlniki Wapiennik P+R</firststop>
+    <laststop jezyk="polski" miasto="Kraków">Zajezdnia Nowa Huta</laststop>
+    <service miasto="Kraków" rodzaj="spółka">MPK S.A. w Krakowie</service>
+    <frequency format="wyraz" częstotliwość="w miarę często">codziennie w nocy</frequency>
+</sixhundredandone>
+</buses>
