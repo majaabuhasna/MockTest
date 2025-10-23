@@ -1,0 +1,17 @@
+{
+    "line_number": 52,
+    "route": "Czerwone Maki P+R - Os. Piastów",
+    "route_length_km": 18.7,
+    "travel_time_min": 47,
+    "operates_on_weekends": true,
+    "frequency_min": [
+        7,
+        10,
+        20
+    ],
+    "operator": "MPK Kraków",
+    "rolling_stock": [
+        "Lajkonik",
+        "Bombardier NGT8"
+    ]
+}
